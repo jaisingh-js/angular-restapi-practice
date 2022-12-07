@@ -1,6 +1,12 @@
 # AngularRestapiPractice
 
+Practice project built using angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+
+## Run Locally
+
+Clone this repo. Run npm i in folder, then run ng serve.
 
 ## Development server
 
