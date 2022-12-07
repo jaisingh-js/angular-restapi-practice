@@ -1,0 +1,9 @@
+<div class="flex">
+    <div *ngIf="user" class="container">
+        <h2>{{user.name}}</h2>
+        <h3>{{user.email}}</h3>
+        <h3>{{user.phone}}</h3>
+        <p>{{user.address.city}} , {{user.address.zipcode}}</p>
+        <a class="button1" routerLink="">Go Back</a>
+    </div>
+</div>

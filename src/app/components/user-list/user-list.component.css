@@ -1,0 +1,17 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid green;
+    max-width: 800px;
+    width: 50%;
+    object-fit: contain;
+}
+
+.item{
+    background-color:rgb(252, 239, 188);
+    padding: 5px;
+    margin: 5px;
+    width: 80%;
+}
